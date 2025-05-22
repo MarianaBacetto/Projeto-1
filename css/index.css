@@ -11,12 +11,28 @@
     margin-bottom: 0;
 }
 
-.paddin {
+.padding {
     padding-top: 10px;
     padding-bottom: 10px;
-    
 }
 
 .guitar1 {
-    width: 40%;
+    width: 100%;
+}
+
+.guitar1 img{
+    width: 300px;
+}
+
+.link-cofig {
+    font-weight: bold;
+    background-color: crimson;
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.link-cofig a:hover {
+    color: yellow;
+    background-color: rgb(255, 67, 104);
 }
